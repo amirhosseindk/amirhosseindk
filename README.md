@@ -34,14 +34,6 @@
   <br>
   <br>
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  </kbd>
-  <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
